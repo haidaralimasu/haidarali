@@ -5,8 +5,8 @@ export const Work = [
         description:"Fullstack NFT marketplace on top of Polygon powered by smart contracts.",
         tags:["react","eth-brownie","polygon","smart contracts"],
         
-        demo:"https://www.bullcarter.in",
-        github:"https://github.com/haidaralimasu/react-non-fungible-mall"
+        demo:"https://matic-satoshishop.vercel.app/",
+        github:"https://github.com/haidaralimasu/matic-satoshishop"
     },
     {
         id:2,
