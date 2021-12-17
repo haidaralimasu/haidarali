@@ -30,6 +30,14 @@ export const Blogs = [
         date:"17 December, 2021",
         imgSrc:"https://blog.kodinghandle.com/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1639751271895%2FOKk7QCDEa.png%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=3840&q=75",
         link:"https://blog.kodinghandle.com/what-is-ethereum-how-to-get-started-with-it"
+    },
+    {
+        id: 5,
+        name:"GraphQL ?",
+        tags:["apis", "graphql" ],
+        date:"17 December, 2021",
+        imgSrc:"https://cdn.hashnode.com/res/hashnode/image/upload/v1633058770508/hYDEwbz0-.png?auto=compress,format&format=webp",
+        link:"https://blog.kodinghandle.com/graphql"
     }
   
 ] 
