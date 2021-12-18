@@ -24,7 +24,7 @@ export const Work = [
         description:"A Defi protocol for user to earn rewards by stacking their coins.",
         tags:["eth-brownie","solidity","Web3"],
         
-        demo:"https://github.com/haidaralimasu/brownie-react-defi",
+        demo:"https://yeild-farming.vercel.app/",
         github:"https://github.com/haidaralimasu/brownie-react-defi"
     },
     {
@@ -35,6 +35,15 @@ export const Work = [
         
         demo:"https://eth-wallet-v2.vercel.app/",
         github:"https://github.com/haidaralimasu/eth-wallet-v2"
+    },
+    {
+        id:5,
+        name:"NFT Game",
+        description:"A NFT Racing Game",
+        tags:["Web3","Game","NFT"],
+        
+        demo:"https://crypto-cars.vercel.app/",
+        github:"https://github.com/haidaralimasu/crypto-cars"
     },
 
     
