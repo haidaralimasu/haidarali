@@ -6,7 +6,7 @@ export const Work = [
         tags:["react","eth-brownie","polygon","smart contracts"],
         
         demo:"https://matic-satoshishop.vercel.app/",
-        github:"https://github.com/haidaralimasu/matic-satoshishop"
+        github:"https://nft-market-haidarali.vercel.app/"
     },
     {
         id:2,
