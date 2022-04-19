@@ -74,7 +74,7 @@ const SocialIcons = (props) => {
         <NavLink
           style={{ color: "inherit" }}
           target="_blank"
-          to={{ pathname: "https://twitter.com/haidarali_masu" }}
+          to={{ pathname: "https://twitter.com/haidaralieth" }}
         >
           <Twitter
             width={25}
